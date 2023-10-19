@@ -60,7 +60,7 @@ li{
 /*Mission Statement*/
 
 .background {
-    background-image: url('/resources/Mission.jpg.jpg'); /* Replace 'background.jpg' with your image file */
+    background-image: url('./resources/Mission.jpg.jpg'); /* Replace 'background.jpg' with your image file */
     background-size: cover;
     background-position: center;
     height: 80vh;
